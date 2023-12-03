@@ -1,0 +1,15 @@
+C:\Users\Vladimir\Desktop\GB\CSharp\lesson5\Task2\bin\Debug\net8.0\Task2.exe
+C:\Users\Vladimir\Desktop\GB\CSharp\lesson5\Task2\bin\Debug\net8.0\Task2.deps.json
+C:\Users\Vladimir\Desktop\GB\CSharp\lesson5\Task2\bin\Debug\net8.0\Task2.runtimeconfig.json
+C:\Users\Vladimir\Desktop\GB\CSharp\lesson5\Task2\bin\Debug\net8.0\Task2.dll
+C:\Users\Vladimir\Desktop\GB\CSharp\lesson5\Task2\bin\Debug\net8.0\Task2.pdb
+C:\Users\Vladimir\Desktop\GB\CSharp\lesson5\Task2\obj\Debug\net8.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vladimir\Desktop\GB\CSharp\lesson5\Task2\obj\Debug\net8.0\Task2.AssemblyInfoInputs.cache
+C:\Users\Vladimir\Desktop\GB\CSharp\lesson5\Task2\obj\Debug\net8.0\Task2.AssemblyInfo.cs
+C:\Users\Vladimir\Desktop\GB\CSharp\lesson5\Task2\obj\Debug\net8.0\Task2.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir\Desktop\GB\CSharp\lesson5\Task2\obj\Debug\net8.0\Task2.sourcelink.json
+C:\Users\Vladimir\Desktop\GB\CSharp\lesson5\Task2\obj\Debug\net8.0\Task2.dll
+C:\Users\Vladimir\Desktop\GB\CSharp\lesson5\Task2\obj\Debug\net8.0\refint\Task2.dll
+C:\Users\Vladimir\Desktop\GB\CSharp\lesson5\Task2\obj\Debug\net8.0\Task2.pdb
+C:\Users\Vladimir\Desktop\GB\CSharp\lesson5\Task2\obj\Debug\net8.0\Task2.genruntimeconfig.cache
+C:\Users\Vladimir\Desktop\GB\CSharp\lesson5\Task2\obj\Debug\net8.0\ref\Task2.dll
