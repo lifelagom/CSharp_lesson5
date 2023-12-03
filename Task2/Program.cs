@@ -1,4 +1,7 @@
-﻿// ввод данных
+﻿// Задайте двумерный массив. Напишите программу, 
+// которая поменяет местами первую и последнюю строку массива.
+
+// ввод данных
 int ReadInt(string text) {
     Console.Write(text);
     return Convert.ToInt32(Console.ReadLine());
